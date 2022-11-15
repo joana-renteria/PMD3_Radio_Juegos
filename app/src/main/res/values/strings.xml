@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PMD3_Radio_Juegos</string>
+    <string name="title">Cual es el mas mejor juego</string>
+    <string name="feedback">¿Te gusta la encuesta?</string>
+
+    <string name="default_message">A ver cual escoges...</string>
+
+    <string name="juego1">Fallout New Vegas</string>
+    <string name="juego2">Team Fortress 2</string>
+    <string name="juego3">Battlefield 4</string>
+    <string name="juego4">Celeste</string>
+
+    <string name="message">Te gusta el juego </string>
+
+    <string name="like">Si que te mola</string>
+    <string name="dislike">No te mola :((</string>
+</resources>
